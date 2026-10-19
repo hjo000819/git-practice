@@ -1,0 +1,4 @@
+Git Practice
+git add
+git commit
+git push
